@@ -8,3 +8,6 @@ def zima():
         return 'Stay home'
 print(zima())
 
+def summa(x,y):
+    return x+y
+print(summa(5,7))
