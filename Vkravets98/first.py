@@ -6,5 +6,6 @@ def zima():
         return'Put on your hat'
     else:
         return 'Stay home'
+
 print(zima())
 
